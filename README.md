@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hello!
+I'm a Senior Android engineer at [Slack](https://www.slack.com/), but I also enjoy fun projects in Golang or Python.
 
 <!--
 **jhight/jhight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
