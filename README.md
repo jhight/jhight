@@ -1,5 +1,5 @@
 ## 👋 Hello!
-I'm a Senior Android engineer at [Slack](https://www.slack.com/), but I spend most of my free time building fun things in Golang or Python and tinkering with hardware.
+I'm a Senior Android engineer at [Slack](https://www.slack.com/). I also enjoy building fun things in Golang or Python and tinkering with hardware.
 - 💼 I help build Huddles, an audio/video communication tool used by millions
 - 🔭 I'm currently building a chainable HTTP sequence framework in Golang
 - 💬 Ask me about the joys of latency and realtime communication
